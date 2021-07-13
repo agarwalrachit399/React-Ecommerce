@@ -1,0 +1,12 @@
+#home-header{
+  background-color: #87723e;
+background-image: url("https://www.transparenttextures.com/patterns/brick-wall.png");
+height:300px;
+}
+#home-feature{
+  background-color: beige;
+}
+
+#home-product{
+  background-color: bisque;
+}
